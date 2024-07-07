@@ -1,0 +1,11 @@
+Links :
+https://start.spring.io/
+https://spring.io/guides/gs/batch-processing
+https://github.com/koushikkothagal/ipl-dashboard/
+https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020?select=matches.csv
+
+https://stackoverflow.com/questions/48997623/how-to-read-flat-file-header-and-body-separately-in-spring-batch
+https://stackoverflow.com/questions/27228809/how-to-skip-lines-with-itemreader-in-spring-batch
+https://www.baeldung.com/spring-boot-hsqldb
+https://stackoverflow.com/questions/77818827/springboot-batchconfig-java-a-bean-of-type-org-springframework-jdbc-datasourc
+https://www.baeldung.com/spring-boot-failed-to-configure-data-source
